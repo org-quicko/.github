@@ -2,14 +2,14 @@
 
 Quicko's organisation-wide defaults for GitHub community files.
 
-These are standardised **issue templates** so every repo gets the same "Bug Report" and "Story" forms without having to duplicate them.
+These are standardised **issue templates** so every repo gets the same "Bug Report" and "Feature Request" forms without having to duplicate them.
 
 ## What's here
 
 ```
 ISSUE_TEMPLATE/
 ├── bug-report-template.yml   # Structured bug report form
-└── story-template.yml        # Structured user story form
+└── feature-request-template.yml        # Structured feature request form
 ```
 
 ## How it applies to other repositories
