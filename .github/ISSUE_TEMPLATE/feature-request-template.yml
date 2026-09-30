@@ -19,7 +19,7 @@ body:
     id: problem
     attributes:
       label: Problem or use case
-      description: What are you trying to do, and what's getting in the way? Focus on the need, not the solution.
+      description: What functionality are you trying to unlock?
       placeholder: "As a ..., I want to ... so that ..."
     validations:
       required: true
