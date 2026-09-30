@@ -1,0 +1,17 @@
+name: Story
+description: Create a new issue
+labels: [enhancement]
+body:
+  - type: textarea
+    id: user-should-be-able-to
+    attributes:
+      label: User should be able to
+    validations:
+      required: false
+
+  - type: textarea
+    id: system-should-be-able-to
+    attributes:
+      label: System should be able to
+    validations:
+      required: false
